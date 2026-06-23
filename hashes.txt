@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de amor
+
+This log tracks the cryptographic history and versioning for the song **Noche de amor** (noche-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:46:41.480768 | `v1` | `dfcfe7bce8b308ba69a81802a6dc2766b0f5b4349a94b7c3d4736566cfb6bd54` | `dfcfe7bce8b308ba69a81802a6dc2766b0f5b4349a94b7c3d4736566cfb6bd54` | `2026-06-23_noche-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

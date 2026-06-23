@@ -1,0 +1,13 @@
+Title: Noche de amor
+Clean Hash: dfcfe7bce8b308ba69a81802a6dc2766b0f5b4349a94b7c3d4736566cfb6bd54
+Raw Hash: dfcfe7bce8b308ba69a81802a6dc2766b0f5b4349a94b7c3d4736566cfb6bd54
+Date: 2026-06-23T14:46:41.480768
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+Subproject commit 59df57356b0a67a33e72bf4ea3f6a6be4c2ae63e
+Subproject commit b6b5a55430b4c7a4282988b550f6322312e335f6
+--------------------
+[CLEAN LYRICS]
+Subproject commit 59df57356b0a67a33e72bf4ea3f6a6be4c2ae63e
+Subproject commit b6b5a55430b4c7a4282988b550f6322312e335f6
