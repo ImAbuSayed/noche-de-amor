@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amor/) |
+| **Get License** | [Official Music Licensing for Noche de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,8 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 59df57356b0a67a33e72bf4ea3f6a6be4c2ae63e
+> Subproject commit b6b5a55430b4c7a4282988b550f6322312e335f6
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
